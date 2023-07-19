@@ -1,0 +1,10 @@
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\bin\Debug\Aula07fase2Funcoes.exe.config
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\bin\Debug\Aula07fase2Funcoes.exe
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\bin\Debug\Aula07fase2Funcoes.pdb
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\obj\Debug\Aula07fase2Funcoes.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\obj\Debug\Aula07fase2Funcoes.Form1.resources
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\obj\Debug\Aula07fase2Funcoes.Properties.Resources.resources
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\obj\Debug\Aula07fase2Funcoes.csproj.GenerateResource.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\obj\Debug\Aula07fase2Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\obj\Debug\Aula07fase2Funcoes.exe
+C:\Users\eduardo.lfuzato\source\repos\Aula07fase2Funcoes\Aula07fase2Funcoes\obj\Debug\Aula07fase2Funcoes.pdb
